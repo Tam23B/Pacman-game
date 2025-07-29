@@ -22,6 +22,7 @@ Responsive design for different screen sizes
 
 
  **Technologies Used**
+
 HTML — Game layout and elements
 
 
