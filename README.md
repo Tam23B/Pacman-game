@@ -1,4 +1,5 @@
-Pac-Man Style Game
+**Pac-Man Style Game**
+
 A fun, browser based Pac-Man style game built with HTML, CSS, and JavaScript. Navigate your player through a maze, collect pellets, avoid ghosts, and survive as long as you can!
  Features
 Classic arcade-style movement and controls
@@ -20,7 +21,7 @@ Responsive design for different screen sizes
 
 
 
- Technologies Used
+ **Technologies Used**
 HTML — Game layout and elements
 
 
